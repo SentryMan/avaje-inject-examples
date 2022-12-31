@@ -4,3 +4,11 @@ build/
 *.iml
 .gradle
 out/
+*.prefs
+*.class*
+*.factorypath
+*.project
+*.processors
+*/bin/
+*.editorconfig
+*.Module
